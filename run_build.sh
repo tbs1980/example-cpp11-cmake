@@ -34,4 +34,4 @@ if [ $? -ne 0 ]; then
     exit 4
 fi
 
-workingprocess "All tests compile and pass."
+workingprocess "All tests compile and pass. haha!"
